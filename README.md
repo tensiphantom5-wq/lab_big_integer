@@ -4,8 +4,8 @@
 
 | Field     | Value               |
 |-----------|---------------------|
-| **Name**  | _John Doe_          |
-| **Group** | _CS-101_            |
+| **Name**  | _Fatima-Gadzhieva_          |
+| **Group** | _RPIS-1_            |
 
 > **Replace the data above with your own!**
 
